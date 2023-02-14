@@ -1,5 +1,7 @@
 package mod1
 
+import "fmt"
+
 func SaysHello() {
-	fmt.println("Saying Hello")
+	fmt.Println("Saying Hello")
 }
